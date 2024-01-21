@@ -1,0 +1,402 @@
+[
+  {
+    "Questions": "What is Excel used for in data analysis?",
+    "Answers": "Excel is used for data analysis to organize, manipulate, and analyze data using various functions and formulas, as well as create visualizations such as charts and graphs."
+  },
+  {
+    "Questions": "How do you create a new workbook in Excel?",
+    "Answers": "To create a new workbook in Excel, you can either click on the \"File\" tab, then select \"New\" and \"Blank Workbook,\" or use the shortcut Ctrl + N."
+  },
+  {
+    "Questions": "How can you insert a new row in Excel?",
+    "Answers": "To insert a new row in Excel, right-click on the row number where you want to insert the row, then choose \"Insert\" from the context menu."
+  },
+  {
+    "Questions": "What is the shortcut key to save an Excel file?",
+    "Answers": "The shortcut key to save an Excel file is Ctrl + S."
+  },
+  {
+    "Questions": "How can you apply a filter to a column in Excel?",
+    "Answers": "To apply a filter to a column in Excel, select the column, then go to the \"Data\" tab and click on the \"Filter\" button."
+  },
+  {
+    "Questions": "What is the purpose of conditional formatting in Excel?",
+    "Answers": "Conditional formatting in Excel allows you to apply formatting to cells based on specific conditions or rules you define. This helps to highlight or visualize data based on certain criteria."
+  },
+  {
+    "Questions": "How do you calculate the sum of a range of cells in Excel?",
+    "Answers": "To calculate the sum of a range of cells in Excel, you can use the SUM function. For example, if the range of cells is A1 to A10, you would enter \"=SUM(A1:A10)\" in a cell to get the sum."
+  },
+  {
+    "Questions": "How can you remove duplicates from a column in Excel?",
+    "Answers": "To remove duplicates from a column in Excel, select the column, go to the \"Data\" tab, click on the \"Remove Duplicates\" button, and follow the prompts."
+  },
+  {
+    "Questions": "What is the function of the VLOOKUP formula in Excel?",
+    "Answers": "The VLOOKUP function in Excel is used to search for a value in the first column of a range or table and return a corresponding value from a different column within the same row."
+  },
+  {
+    "Questions": "How can you create a basic bar chart in Excel?",
+    "Answers": "To create a basic bar chart in Excel, select the data you want to include in the chart, go to the \"Insert\" tab, click on the \"Bar\" chart type, and choose the desired chart subtype."
+  },
+  {
+    "Questions": "How can you format a cell to display currency values in Excel?",
+    "Answers": "To format a cell to display currency values in Excel, select the cell(s) you want to format, go to the \"Home\" tab, click on the \"Number Format\" dropdown, and choose the \"Currency\" format."
+  },
+  {
+    "Questions": "What is the purpose of the COUNT function in Excel?",
+    "Answers": "The COUNT function in Excel is used to count the number of cells in a range that contain numeric values."
+  },
+  {
+    "Questions": "How can you freeze panes in Excel to keep certain rows or columns visible?",
+    "Answers": "To freeze panes in Excel, go to the \"View\" tab, click on the \"Freeze Panes\" button, and choose whether to freeze the top row, left column, or a specific range."
+  },
+  {
+    "Questions": "How do you create a pivot table in Excel?",
+    "Answers": "To create a pivot table in Excel, select the data you want to analyze, go to the \"Insert\" tab, click on the \"PivotTable\" button, choose the desired location for the pivot table, and configure the fields in the pivot table field list."
+  },
+  {
+    "Questions": "How can you sort data in ascending or descending order in Excel?",
+    "Answers": "To sort data in ascending or descending order in Excel, select the range you want to sort, go to the \"Data\" tab, click on the \"Sort\" button, and choose the sorting criteria."
+  },
+  {
+    "Questions": "What is the difference between a relative and an absolute cell reference in Excel?",
+    "Answers": "In Excel, a relative cell reference adjusts automatically when the formula is copied to other cells, while an absolute cell reference remains constant regardless of the cell it is copied to. Absolute references use the dollar sign ($) before the column and/or row reference (e.g., $A$1), while relative references do not have a dollar sign."
+  },
+  {
+    "Questions": "How can you merge cells in Excel to create a single larger cell?",
+    "Answers": "To merge cells in Excel, select the cells you want to merge, go to the \"Home\" tab, click on the \"Merge & Center\" button, and choose the desired merge option."
+  },
+  {
+    "Questions": "What is the purpose of the CONCATENATE function in Excel?",
+    "Answers": "The CONCATENATE function in Excel is used to combine or join multiple text strings into a single string."
+  },
+  {
+    "Questions": "How can you find and replace specific text in an Excel worksheet?",
+    "Answers": "To find and replace specific text in an Excel worksheet, go to the \"Home\" tab, click on the \"Find & Select\" button, and choose \"Replace.\" Enter the text to find and the replacement text, and choose the desired options."
+  },
+  {
+    "Questions": "How can you calculate the average of a range of cells in Excel?",
+    "Answers": "To calculate the average of a range of cells in Excel, you can use the AVERAGE function. For example, if the range of cells is A1 to A10, you would enter \"=AVERAGE(A1:A10)\" in a cell to get the average."
+  },
+  {
+    "Questions": "How do you insert a comment in Excel to provide additional information about a cell?",
+    "Answers": "To insert a comment in Excel, right-click on the cell where you want to add the comment, select \"Insert Comment\" from the context menu, and enter the desired text in the comment box that appears."
+  },
+  {
+    "Questions": "What is the purpose of the IF function in Excel?",
+    "Answers": "The IF function in Excel is used to perform logical tests and return different values based on the result of the test. It allows you to create conditional statements."
+  },
+  {
+    "Questions": "How can you protect an Excel workbook with a password?",
+    "Answers": "To protect an Excel workbook with a password, go to the \"File\" tab, click on \"Protect Workbook,\" choose \"Encrypt with Password,\" and enter the desired password."
+  },
+  {
+    "Questions": "How do you create a line chart in Excel?",
+    "Answers": "To create a line chart in Excel, select the data you want to include in the chart, go to the \"Insert\" tab, click on the \"Line\" chart type, and choose the desired chart subtype."
+  },
+  {
+    "Questions": "How can you calculate the maximum value in a range of cells in Excel?",
+    "Answers": "To calculate the maximum value in a range of cells in Excel, you can use the MAX function. For example, if the range of cells is A1 to A10, you would enter \"=MAX(A1:A10)\" in a cell to get the maximum value."
+  },
+  {
+    "Questions": "What is the purpose of the AVERAGEIF function in Excel?",
+    "Answers": "The AVERAGEIF function in Excel is used to calculate the average of a range of cells that meet specific criteria."
+  },
+  {
+    "Questions": "How can you convert a range of text to uppercase in Excel?",
+    "Answers": "To convert a range of text to uppercase in Excel, you can use the UPPER function. For example, if the range of cells is A1 to A10, you would enter \"=UPPER(A1:A10)\" in a different range of cells to get the uppercase values."
+  },
+  {
+    "Questions": "How do you insert a hyperlink in Excel?",
+    "Answers": "To insert a hyperlink in Excel, select the cell or text where you want to add the hyperlink, right-click, choose \"Hyperlink\" from the context menu, and enter the destination address or choose a location within the workbook."
+  },
+  {
+    "Questions": "What is the purpose of the COUNTIF function in Excel?",
+    "Answers": "The COUNTIF function in Excel is used to count the number of cells in a range that meet specific criteria."
+  },
+  {
+    "Questions": "How can you hide rows or columns in Excel?",
+    "Answers": "To hide rows or columns in Excel, select the rows or columns you want to hide, right-click, choose \"Hide\" from the context menu, or use the shortcut Ctrl + 9 for rows or Ctrl + 0 for columns."
+  },
+  {
+    "Questions": "How do you create a stacked column chart in Excel?",
+    "Answers": "To create a stacked column chart in Excel, select the data you want to include in the chart, go to the \"Insert\" tab, click on the \"Column\" chart type, and choose the stacked column chart subtype."
+  },
+  {
+    "Questions": "What is the purpose of the NOW function in Excel?",
+    "Answers": "The NOW function in Excel is used to display the current date and time."
+  },
+  {
+    "Questions": "How can you calculate the minimum value in a range of cells in Excel?",
+    "Answers": "To calculate the minimum value in a range of cells in Excel, you can use the MIN function. For example, if the range of cells is A1 to A10, you would enter \"=MIN(A1:A10)\" in a cell to get the minimum value."
+  },
+  {
+    "Questions": "How do you wrap text within a cell in Excel?",
+    "Answers": "To wrap text within a cell in Excel, select the cell(s) you want to wrap, go to the \"Home\" tab, click on the \"Wrap Text\" button in the \"Alignment\" group."
+  },
+  {
+    "Questions": "What is the purpose of the LEFT function in Excel?",
+    "Answers": "The LEFT function in Excel is used to extract a specified number of characters from the beginning (left) of a text string."
+  },
+  {
+    "Questions": "How can you calculate the total number of rows or columns in an Excel worksheet?",
+    "Answers": "To calculate the total number of rows in an Excel worksheet, you can use the ROWS function. To calculate the total number of columns, you can use the COLUMNS function."
+  },
+  {
+    "Questions": "How do you insert a column in Excel?",
+    "Answers": "To insert a column in Excel, right-click on the column letter where you want to insert the column, then choose \"Insert\" from the context menu."
+  },
+  {
+    "Questions": "What is the purpose of the TRIM function in Excel?",
+    "Answers": "The TRIM function in Excel is used to remove extra spaces from a text string, except for a single space between words."
+  },
+  {
+    "Questions": "How can you calculate the percentage of a number in Excel?",
+    "Answers": "To calculate the percentage of a number in Excel, you can multiply the number by the percentage and divide by 100. For example, to calculate 20% of 100, you would enter \"=100*20/100\" in a cell."
+  },
+  {
+    "Questions": "How do you format a cell as bold in Excel?",
+    "Answers": "To format a cell as bold in Excel, select the cell(s) you want to format, go to the \"Home\" tab, click on the \"Bold\" button in the \"Font\" group, or use the shortcut Ctrl + B."
+  },
+  {
+    "Questions": "What is the purpose of the COUNTIFS function in Excel?",
+    "Answers": "The COUNTIFS function in Excel is used to count the number of cells in multiple ranges that meet multiple criteria."
+  },
+  {
+    "Questions": "How can you insert the current date into a cell in Excel?",
+    "Answers": "To insert the current date into a cell in Excel, you can use the TODAY function. Simply enter \"=TODAY()\" in the desired cell."
+  },
+  {
+    "Questions": "How do you create a pie chart in Excel?",
+    "Answers": "To create a pie chart in Excel, select the data you want to include in the chart, go to the \"Insert\" tab, click on the \"Pie\" chart type, and choose the desired chart subtype."
+  },
+  {
+    "Questions": "What is the purpose of the ROUND function in Excel?",
+    "Answers": "The ROUND function in Excel is used to round a number to a specified number of digits."
+  },
+  {
+    "Questions": "How can you convert a range of text to lowercase in Excel?",
+    "Answers": "To convert a range of text to lowercase in Excel, you can use the LOWER function. For example, if the range of cells is A1 to A10, you would enter \"=LOWER(A1:A10)\" in a different range of cells to get the lowercase values."
+  },
+  {
+    "Questions": "How do you protect a specific worksheet in an Excel workbook?",
+    "Answers": "To protect a specific worksheet in an Excel workbook, right-click on the worksheet tab, choose \"Protect Sheet,\" and enter a password if desired."
+  },
+  {
+    "Questions": "What is the purpose of the RIGHT function in Excel?",
+    "Answers": "The RIGHT function in Excel is used to extract a specified number of characters from the end (right) of a text string."
+  },
+  {
+    "Questions": "How can you calculate the square root of a number in Excel?",
+    "Answers": "To calculate the square root of a number in Excel, you can use the SQRT function. For example, if the number is in cell A1, you would enter \"=SQRT(A1)\" in a different cell to get the square root."
+  },
+  {
+    "Questions": "How do you insert a row in Excel?",
+    "Answers": "To insert a row in Excel, right-click on the row number where you want to insert the row, then choose \"Insert\" from the context menu."
+  },
+  {
+    "Questions": "What is the purpose of the SUBSTITUTE function in Excel?",
+    "Answers": "The SUBSTITUTE function in Excel is used to replace specific text in a text string with new text."
+  },
+  {
+    "Questions": "How can you apply a border to a cell or range in Excel?",
+    "Answers": "To apply a border to a cell or range in Excel, select the cell(s) or range, go to the \"Home\" tab, click on the \"Borders\" dropdown, and choose the desired border style."
+  },
+  {
+    "Questions": "How do you remove a filter from a column in Excel?",
+    "Answers": "To remove a filter from a column in Excel, go to the \"Data\" tab, click on the \"Filter\" button again, or use the shortcut Ctrl + Shift + L."
+  },
+  {
+    "Questions": "What is the purpose of the CONCAT function in Excel?",
+    "Answers": "The CONCAT function in Excel is used to combine or join multiple text strings into a single string."
+  },
+  {
+    "Questions": "How can you calculate the median of a range of cells in Excel?",
+    "Answers": "To calculate the median of a range of cells in Excel, you can use the MEDIAN function. For example, if the range of cells is A1 to A10, you would enter \"=MEDIAN(A1:A10)\" in a cell to get the median value."
+  },
+  {
+    "Questions": "How do you change the font color of a cell in Excel?",
+    "Answers": "To change the font color of a cell in Excel, select the cell(s) you want to format, go to the \"Home\" tab, click on the \"Font Color\" dropdown, and choose the desired color."
+  },
+  {
+    "Questions": "What is the purpose of the SUMIF function in Excel?",
+    "Answers": "The SUMIF function in Excel is used to calculate the sum of a range of cells that meet specific criteria."
+  },
+  {
+    "Questions": "How can you rename a worksheet in an Excel workbook?",
+    "Answers": "To rename a worksheet in an Excel workbook, right-click on the worksheet tab, choose \"Rename,\" and enter the new name."
+  },
+  {
+    "Questions": "How do you create a scatter plot in Excel?",
+    "Answers": "To create a scatter plot in Excel, select the data you want to include in the chart (two columns: X-values and Y-values), go to the \"Insert\" tab, click on the \"Scatter\" chart type, and choose the desired chart subtype."
+  },
+  {
+    "Questions": "What is the purpose of the COUNTBLANK function in Excel?",
+    "Answers": "The COUNTBLANK function in Excel is used to count the number of empty cells in a range."
+  },
+  {
+    "Questions": "How can you calculate the average of a range of cells, excluding zeros, in Excel?",
+    "Answers": "To calculate the average of a range of cells, excluding zeros, in Excel, you can use the AVERAGEIF function with the criteria \"<>0\". For example, if the range of cells is A1 to A10, you would enter \"=AVERAGEIF(A1:A10,\"<>0\")\" in a cell to get the average."
+  },
+  {
+    "Questions": "How do you insert a picture into an Excel worksheet?",
+    "Answers": "To insert a picture into an Excel worksheet, go to the \"Insert\" tab, click on the \"Pictures\" button, and choose the desired picture file."
+  },
+  {
+    "Questions": "What is the purpose of the IFERROR function in Excel?",
+    "Answers": "The IFERROR function in Excel is used to handle error values and return a specified value or perform a different calculation when an error occurs."
+  },
+  {
+    "Questions": "How can you calculate the total number of cells in a range in Excel?",
+    "Answers": "To calculate the total number of cells in a range in Excel, you can use the COUNTA function. For example, if the range of cells is A1 to A10, you would enter \"=COUNTA(A1:A10)\" in a cell to get the count."
+  },
+  {
+    "Questions": "How do you insert a page break in an Excel worksheet?",
+    "Answers": "To insert a page break in an Excel worksheet, select the row or column where you want to insert the page break, go to the \"Page Layout\" tab, click on the \"Breaks\" dropdown, and choose \"Insert Page Break."
+  },
+  {
+    "Questions": "What is the purpose of the LEN function in Excel?",
+    "Answers": "The LEN function in Excel is used to count the number of characters in a text string."
+  },
+  {
+    "Questions": "How can you calculate the absolute value of a number in Excel?",
+    "Answers": "To calculate the absolute value of a number in Excel, you can use the ABS function. For example, if the number is in cell A1, you would enter \"=ABS(A1)\" in a different cell to get the absolute value."
+  },
+  {
+    "Questions": "How do you adjust column width in Excel?",
+    "Answers": "To adjust column width in Excel, select the column(s) you want to resize, position the cursor on the right edge of the selected column header until it turns into a double-headed arrow, then click and drag to the desired width."
+  },
+  {
+    "Questions": "What is the purpose of the LEFTB function in Excel?",
+    "Answers": "The LEFTB function in Excel is used to extract a specified number of bytes from the beginning (left) of a text string, taking into account double-byte characters."
+  },
+  {
+    "Questions": "How can you calculate the percentage change between two numbers in Excel?",
+    "Answers": "To calculate the percentage change between two numbers in Excel, subtract the old number from the new number, divide by the old number, and multiply by 100. For example, if the old number is in cell A1 and the new number is in cell B1, you would enter \"=((B1-A1)/A1)*100\" in a different cell to get the percentage change."
+  },
+  {
+    "Questions": "How do you create a pivot chart in Excel based on a pivot table?",
+    "Answers": "To create a pivot chart in Excel based on a pivot table, select any cell within the pivot table, go to the \"Insert\" tab, click on the desired chart type, and choose the desired chart subtype."
+  },
+  {
+    "Questions": "What is the purpose of the MID function in Excel?",
+    "Answers": "The MID function in Excel is used to extract a specified number of characters from the middle of a text string."
+  },
+  {
+    "Questions": "How can you calculate the total of a range of cells in Excel?",
+    "Answers": "To calculate the total of a range of cells in Excel, you can use the SUM function. For example, if the range of cells is A1 to A10, you would enter \"=SUM(A1:A10)\" in a cell to get the total."
+  },
+  {
+    "Questions": "How do you change the background color of a cell in Excel?",
+    "Answers": "To change the background color of a cell in Excel, select the cell(s) you want to format, go to the \"Home\" tab, click on the \"Fill Color\" dropdown, and choose the desired color."
+  },
+  {
+    "Questions": "What is the purpose of the VLOOKUP function in Excel?",
+    "Answers": "The VLOOKUP function in Excel is used to look up a value in the leftmost column of a table or range and return a value from a specified column in the same row."
+  },
+  {
+    "Questions": "How can you sort data in Excel based on multiple criteria?",
+    "Answers": "To sort data in Excel based on multiple criteria, go to the \"Data\" tab, click on the \"Sort\" button, and choose the desired sorting criteria in the Sort dialog box."
+  },
+  {
+    "Questions": "How do you insert a function in an Excel worksheet?",
+    "Answers": "To insert a function in an Excel worksheet, select the cell where you want to enter the function, go to the \"Formulas\" tab, click on the \"Insert Function\" button, and choose the desired function from the Insert Function dialog box."
+  },
+  {
+    "Questions": "What is the purpose of the SEARCH function in Excel?",
+    "Answers": "The SEARCH function in Excel is used to find the position of a specific text within another text string."
+  },
+  {
+    "Questions": "How can you calculate the exponential power of a number in Excel?",
+    "Answers": "To calculate the exponential power of a number in Excel, you can use the POWER function. For example, if the base number is in cell A1 and the exponent is in cell B1, you would enter \"=POWER(A1, B1)\" in a different cell to get the result."
+  },
+  {
+    "Questions": "How do you apply conditional formatting to a range of cells in Excel?",
+    "Answers": "To apply conditional formatting to a range of cells in Excel, select the cells you want to format, go to the \"Home\" tab, click on the \"Conditional Formatting\" button, and choose the desired formatting rule."
+  },
+  {
+    "Questions": "What is the purpose of the INDEX function in Excel?",
+    "Answers": "The INDEX function in Excel is used to return the value of a cell in a specified row and column of a range."
+  },
+  {
+    "Questions": "How can you calculate the factorial of a number in Excel?",
+    "Answers": "To calculate the factorial of a number in Excel, you can use a combination of functions. For example, if the number is in cell A1, you would enter \"=FACT(A1)\" in a different cell to get the factorial."
+  },
+  {
+    "Questions": "How do you freeze panes in an Excel worksheet?",
+    "Answers": "To freeze panes in an Excel worksheet, go to the \"View\" tab, click on the \"Freeze Panes\" dropdown, and choose the desired option (e.g., \"Freeze Panes\" to freeze the top row and leftmost column)."
+  },
+  {
+    "Questions": "What is the purpose of the ROUNDUP function in Excel?",
+    "Answers": "The ROUNDUP function in Excel is used to round a number up to a specified number of digits."
+  },
+  {
+    "Questions": "How can you calculate the weighted average of a range of cells in Excel?",
+    "Answers": "To calculate the weighted average of a range of cells in Excel, you can multiply each value by its corresponding weight, sum the products, and divide by the sum of the weights. For example, if the range of cells is A1 to A10 (values) and B1 to B10 (weights), you would enter \"=SUMPRODUCT(A1:A10, B1:B10)/SUM(B1:B10)\" in a cell to get the weighted average."
+  },
+  {
+    "Questions": "How do you insert a comment in an Excel cell?",
+    "Answers": "To insert a comment in an Excel cell, select the cell, go to the \"Review\" tab, click on the \"New Comment\" button, and enter the comment text in the comment box."
+  },
+  {
+    "Questions": "What is the purpose of the CONCATENATE function in Excel?",
+    "Answers": "The CONCATENATE function in Excel is used to combine or join multiple text strings into a single string."
+  },
+  {
+    "Questions": "How can you calculate the logarithm of a number to a specified base in Excel?",
+    "Answers": "To calculate the logarithm of a number to a specified base in Excel, you can use the LOG function. For example, if the number is in cell A1 and the base is in cell B1, you would enter \"=LOG(A1, B1)\" in a different cell to get the result."
+  },
+  {
+    "Questions": "How do you convert a range of text to uppercase in Excel?",
+    "Answers": "To convert a range of text to uppercase in Excel, you can use the UPPER function. For example, if the range of cells is A1 to A10, you would enter \"=UPPER(A1:A10)\" in a different range of cells to get the uppercase values."
+  },
+  {
+    "Questions": "What is the purpose of the MAX function in Excel?",
+    "Answers": "The MAX function in Excel is used to calculate the maximum value in a range of cells."
+  },
+  {
+    "Questions": "How can you calculate the average of a range of cells in Excel?",
+    "Answers": "To calculate the average of a range of cells in Excel, you can use the AVERAGE function. For example, if the range of cells is A1 to A10, you would enter \"=AVERAGE(A1:A10)\" in a cell to get the average."
+  },
+  {
+    "Questions": "How do you insert a line chart in Excel?",
+    "Answers": "To insert a line chart in Excel, select the data you want to include in the chart (two columns: X-values and Y-values), go to the \"Insert\" tab, click on the \"Line\" chart type, and choose the desired chart subtype."
+  },
+  {
+    "Questions": "What is the purpose of the TEXT function in Excel?",
+    "Answers": "The TEXT function in Excel is used to format a value as text using a specified format code."
+  },
+  {
+    "Questions": "How can you calculate the difference between two dates in Excel?",
+    "Answers": "To calculate the difference between two dates in Excel, you can subtract the earlier date from the later date. The result will be in the number of days. For example, if the earlier date is in cell A1 and the later date is in cell B1, you would enter \"=B1-A1\" in a different cell to get the difference."
+  },
+  {
+    "Questions": "How do you insert a checkbox in an Excel worksheet?",
+    "Answers": "To insert a checkbox in an Excel worksheet, go to the \"Developer\" tab (if not visible, enable it in Excel options), click on the \"Insert\" button in the \"Controls\" group, and choose the \"Check Box\" option."
+  },
+  {
+    "Questions": "What is the purpose of the COUNT function in Excel?",
+    "Answers": "The COUNT function in Excel is used to count the number of cells in a range that contain numeric values."
+  },
+  {
+    "Questions": "How can you calculate the standard deviation of a range of cells in Excel?",
+    "Answers": "To calculate the standard deviation of a range of cells in Excel, you can use the STDEV function. For example, if the range of cells is A1 to A10, you would enter \"=STDEV(A1:A10)\" in a cell to get the standard deviation."
+  },
+  {
+    "Questions": "How do you merge cells in Excel?",
+    "Answers": "To merge cells in Excel, select the cells you want to merge, go to the \"Home\" tab, click on the \"Merge & Center\" button in the \"Alignment\" group."
+  },
+  {
+    "Questions": "What is the purpose of the AVERAGEIFS function in Excel?",
+    "Answers": "The AVERAGEIFS function in Excel is used to calculate the average of a range of cells that meet multiple criteria."
+  },
+  {
+    "Questions": "How can you calculate the rank of a value within a range in Excel?",
+    "Answers": "To calculate the rank of a value within a range in Excel, you can use the RANK function. For example, if the value is in cell A1 and the range of values is in A1 to A10, you would enter \"=RANK(A1, A1:A10)\" in a different cell to get the rank."
+  },
+  {
+    "Questions": "How do you convert a range of text to proper case in Excel?",
+    "Answers": "To convert a range of text to proper case (capitalize the first letter of each word) in Excel, you can use the PROPER function. For example, if the range of cells is A1 to A10, you would enter \"=PROPER(A1:A10)\" in a different range of cells to get the proper case values."
+  }
+]
